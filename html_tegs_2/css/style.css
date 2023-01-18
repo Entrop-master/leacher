@@ -1,0 +1,61 @@
+body {
+	background: white;
+/*	font-family: 'DauphinPlain', sans-serif;*/
+	font-weight: 400;
+	color: rgb(1, 124,77);
+}
+
+.a1 {
+	color: rgb(0, 0, 0);
+}
+
+.h1 {
+	text-align: center;
+	font-family: Dauphinn;
+	font-size: 60px;
+	src: url("../fonts/Dauphinn.fft") format("truetype");
+}	
+
+.p {
+	text-align: center;
+	color: rgb(0, 0, 0);
+	font-family: Dauphinn;
+	font-size: 15px;
+	src: url("../fonts/Dauphinn.fft") format("truetype");
+}
+
+.h2_1 {
+	text-align: left;
+	font-family: Dauphinn;
+	font-size: 20px;
+	src: url("../fonts/Dauphinn.fft") format("truetype");
+}
+.h2_2 {
+	text-align: right;
+	font-family: Dauphinn;
+	font-size: 20px;
+	src: url("../fonts/Dauphinn.fft") format("truetype");
+}
+.h2_3 {
+	text-align: left;
+	font-family: Dauphinn;
+	font-size: 20px;
+	src: url("../fonts/Dauphinn.fft") format("truetype");
+}
+
+.h2_4 {
+	text-align: right;
+	font-family: Dauphinn;
+	font-size: 20px;
+	src: url("../fonts/Dauphinn.fft") format("truetype");
+}
+.h2_5 {
+	text-align: left;
+	font-family: Dauphinn;
+	font-size: 20px;
+	src: url("../fonts/Dauphinn.fft") format("truetype");
+}
+
+.aaa {
+	text-align: center;
+}
