@@ -37,27 +37,14 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-style: inherit;font-weight: 400;}
+/*------------------------------*/
 
-
-/*
-span{
-	font-size: 20px;
-	color: red;
-}
-*/
-
-.bigred{
-	font-size: 20px;
-	color: red;
+body{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
-span.bigred{
-	font-size: 30px;
-	color: green;
-}
 
-.block_1{
-	border: 1px solid black;
-	padding: 5px;
-	margin: 5px;
-}
+
+
+
+
